@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">全国PM2.5实时报</string>
+    <string name="time">时间</string>
+     <string name="action_settings">省市</string>
+       
+
+</resources>
